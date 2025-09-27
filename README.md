@@ -1,5 +1,19 @@
 ## Технологический стек 👋
 
+<img src="images/HTML5.svg" width="70" alt="HTML5">
+<img src="images/CSS3.svg" width="70" alt="CSS3">
+<img src="images/Sass.svg" width="70" alt="Sass">
+<img src="images/TailwindCSS.svg" width="70" alt="TailwindCSS">
+<img src="images/JavaScript.svg" width="70" alt="JavaScript">
+<img src="images/TypeScript.svg" width="70" alt="TypeScript">
+<img src="images/React.svg" width="70" alt="React">
+<img src="images/Redux.svg" width="70" alt="Redux">
+<img src="images/Jest.svg" width="70" alt="Jest">
+<img src="images/Cypress.svg" width="70" alt="Cypress">
+<img src="images/Vite.svg" width="70" alt="Vite">
+<img src="images/Webpack.svg" width="70" alt="Webpack">
+<img src="images/Git.svg" width="70" alt="Git">
+
 
 <!--
 **AskonaLi/AskonaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

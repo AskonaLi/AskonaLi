@@ -1,5 +1,5 @@
 ## Технологический стек 👋
-
+<p align="left">
 <img src="images/HTML5.svg" width="70" alt="HTML5">
 <img src="images/CSS3.svg" width="70" alt="CSS3">
 <img src="images/Sass.svg" width="70" alt="Sass">
@@ -13,7 +13,7 @@
 <img src="images/Vite.svg" width="70" alt="Vite">
 <img src="images/Webpack.svg" width="70" alt="Webpack">
 <img src="images/Git.svg" width="70" alt="Git">
-
+</p>
 
 <!--
 **AskonaLi/AskonaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
